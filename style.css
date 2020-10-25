@@ -1,0 +1,23 @@
+#nav {
+    position: fixed;
+    top: 0;
+    right: 0;
+    transform: translate(-6%, 0%) rotate(45deg);
+    color: black;
+}
+  
+#nav a {
+    color: black;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+#navcont {
+    /*background-image: url('./navback.png');*/
+    width: 35%;
+    height: 455px;
+    position: fixed;
+    top: 0;
+    right: 0;
+}
+
